@@ -75,6 +75,7 @@ h3 {
 .bottom {
   margin-top: 20px;
   background-color: #66aaaa;
+  margin-bottom: 0px;
 }
 
 .btn {
